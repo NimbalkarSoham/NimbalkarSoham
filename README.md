@@ -49,8 +49,6 @@
 
 ###
 
-<img align="right" height="150" src="https://w7.pngwing.com/pngs/846/561/png-transparent-man-using-computer-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-web-design-expert-mobile-app-development.png"  />
-
 ###
 
 <div align="left">

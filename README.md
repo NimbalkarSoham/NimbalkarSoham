@@ -49,7 +49,7 @@
 
 ###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/9eb3fdcaa648566c6a055c75fc17dbaf3849b11ede8019397a30d2092fdcd3be/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3262653163655f38363435363739303038343534313865626664363165323937363337343634647e6d76322e676966"  />
+<img align="right" height="150" src="https://w7.pngwing.com/pngs/846/561/png-transparent-man-using-computer-web-development-mobile-app-development-software-developer-web-developer-programmer-developer-web-design-expert-mobile-app-development.png"  />
 
 ###
 
@@ -69,6 +69,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NimbalkarSoham/NimbalkarSoham/output/snake.svg" alt="Snake animation" />
 
 ###
